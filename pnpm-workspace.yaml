@@ -1,0 +1,12 @@
+onlyBuiltDependencies:
+  - '@compodoc/compodoc'
+  - '@parcel/watcher'
+  - '@swc/core'
+  - '@tailwindcss/oxide'
+  - esbuild
+  - lmdb
+  - msgpackr-extract
+  - nx
+  - tree-sitter
+  - tree-sitter-javascript
+  - tree-sitter-typescript

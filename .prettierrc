@@ -1,0 +1,15 @@
+{
+  "printWidth": 180,
+  "singleAttributePerLine": false,
+  "singleQuote": true,
+  "overrides": [
+    {
+      "files": ["*.html"],
+      "options": {
+        "bracketSameLine": false,
+        "parser": "angular",
+        "printWidth": 120
+      }
+    }
+  ]
+}
